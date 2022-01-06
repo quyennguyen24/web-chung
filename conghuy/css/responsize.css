@@ -1,0 +1,41 @@
+  
+@media (min-width: 1366px) {
+} 
+@media (min-width: 1200px) and (max-width: 1365px){
+    
+}
+
+@media (min-width: 992px) and (max-width: 1199px){  /* md */
+    
+    
+}   
+@media (min-width: 768px) and (max-width: 992px){	/* sm */
+}	
+@media (min-width: 480px) and (max-width:767px){	 /* xs */
+    .hidden{
+        display: none;
+    }
+    .navbar{
+        padding: 0;
+    }
+    .main {
+        margin-top: 10px !important;
+    }
+    .mainLeft-MoTa {
+        height: 90px;
+       
+    }
+    .footer-right h4 {
+       
+        margin-left: 29%;
+    }
+    .footer{
+        text-align: center;
+    }
+   
+}
+@media only screen and (min-width: 240px) and (max-width: 480px){ /* xs */
+    
+}
+
+

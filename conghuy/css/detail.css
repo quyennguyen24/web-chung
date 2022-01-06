@@ -1,0 +1,30 @@
+.title-link{
+    text-decoration: none;
+    color: black;
+    font-size: 23px;
+    font-weight: 500;
+}
+.title-link:hover{
+    text-decoration: none;
+    color: #c30d0d;
+}
+.tacgia{
+    display: flex;
+    justify-content: space-between;
+    font-style: italic;
+}
+.content{
+    text-transform: capitalize;
+    color: #c30d0d;
+    padding-bottom: 15px;
+    border-bottom: 3px solid;
+
+}
+.MoTa{
+    font-weight: 500;
+    font-size: 15px;
+    margin-bottom: 15px;
+}
+.NoiDung img{
+    width: 100%;
+}
